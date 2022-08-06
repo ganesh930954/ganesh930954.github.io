@@ -1,0 +1,118 @@
+
+body
+{
+    background-color: rgb(11, 11, 11);
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: red;
+}
+/* navbar */
+
+.navbar{
+    background-color: rgb(51 50 49);
+    padding: 1px;
+    border-radius: 20px;
+}
+
+.menu{
+
+    list-style-type:none; 
+    display: inline; 
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: rgb(171, 129, 210);
+    padding: 5px; /* most imp */
+}
+
+/* first block*/
+.profile
+{
+   text-align: center; 
+}
+.profileImage{
+    box-shadow: 6px 6px 6px  gray;
+}
+#name{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.course-name{
+    font-size: 23px;
+}
+#course-img{
+        margin-top: 0px;
+        position: relative;
+        top: 6px;
+}
+.link{
+    display: inline;
+    margin-right: 16px;
+}
+.info , .links{
+    margin: 15px;
+}
+.icon{
+    width: 15px;
+}
+
+
+/* Education */
+
+#education{
+    font-size: 25px;
+}
+.educationinfo{
+    font-size: 22px;
+}
+
+
+.contact
+{
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.personalInfo{
+    margin: 20px;
+    color: white;   
+}
+.skills{
+    font-size: 20px;
+}
+
+.certificate{
+    position: relative;
+    font-size: 20px;
+    bottom: 2.3rem;
+    left: 4rem;
+    text-decoration: none;
+    color: white;
+}
+.head{
+        color: gold;
+}
+.clgname{
+    margin-top: 30px;
+}
+.contact a {
+    text-decoration: none;
+}
+
+.marks{
+    font-size: 18px;
+}
+.Edyear{
+    font-size: 18px;
+}
+/* Footer */
+footer
+{   
+    text-align: center;
+    background-color: lightslategray;
+}
