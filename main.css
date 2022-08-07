@@ -19,6 +19,7 @@ a:hover{
     border-radius: 20px;
     display: fixed;
     top: 0;
+    width: 100%;
 }
 
 .menu{
