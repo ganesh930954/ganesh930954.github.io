@@ -17,6 +17,8 @@ a:hover{
     background-color: rgb(51 50 49);
     padding: 1px;
     border-radius: 20px;
+    display: fixed;
+    top: 0;
 }
 
 .menu{
